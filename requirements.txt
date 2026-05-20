@@ -1,3 +1,4 @@
+python-3.12.8
 Django==5.1
 django-active-link==0.2.2
 Pillow==10.0.0
